@@ -1,5 +1,5 @@
 {
     "name": "solaredge-modbus-hass",
-    "url": "https://github.com/erikarenhill/solaredge-modbus-hass",
-    "maintainer": "erik@arenhill.com"
+    "url": "https://github.com/bitfliq/solaredge-modbus-hass",
+    "maintainer": "bitfliq@gmail.com"
 }
